@@ -1,0 +1,43 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    background-color: crimson;
+}
+
+#back1
+{
+    margin-left: 1280px;
+    font-size: 18px;
+    margin-top: 20px;
+    background-color: black;
+}
+
+#status
+{
+    font-size: 20px;
+    background-color: crimson;
+}
+
+#info
+{
+    font-size: 16px;
+}
+
+canvas
+{
+    box-shadow: 5px 5px 5px rgb(248, 148, 33);
+    border-radius: 10px;
+    margin-top: 100px;
+}
+
+img
+{
+    background-size: cover;
+}
